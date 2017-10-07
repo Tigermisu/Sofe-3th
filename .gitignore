@@ -16,3 +16,4 @@ Java/Sofe/target/*
 .idea/*
 C Sharp/.idea/*
 JavaScript/.idea/*
+JavaScript/node_modules/*
