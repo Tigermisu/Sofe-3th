@@ -38,7 +38,7 @@
 
             var root = new TreeNode(3, B1, B2);
 
-            var result = MaxPathTreeCount.maxPathCount(tree);
+            var result = MaxPathTreeCount.maxPathCount(root);
 
             expect(result).toBe(2);
         });
@@ -80,7 +80,7 @@
 
             var root = new TreeNode(3, B1, B2);
 
-            var result = MaxPathTreeCount.maxPathCount(tree);
+            var result = MaxPathTreeCount.maxPathCount(root);
 
             expect(result).toBe(16);
         });
@@ -122,7 +122,7 @@
 
             var root = new TreeNode(3, B1, B2);
 
-            var result = MaxPathTreeCount.maxPathCount(tree);
+            var result = MaxPathTreeCount.maxPathCount(root);
 
             expect(result).toBe(9);
         });
