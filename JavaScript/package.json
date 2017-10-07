@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "karma-jasmine": "^1.1.0",
+    "jasmine-core": "^2.8.0",
+    "karma": "^1.7.1",
+    "karma-phantomjs-launcher": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "",
+  "license": "ISC"
+}
+
